@@ -1,7 +1,10 @@
 - 👋 Hi, I’m @hadimh93
-- 👀 I am a Macrosystems graduate with a strong background in statistics and machine learning,
-     with the experience of using predictive data modeling to address real business problems and
-     familiar with Deep and Reinforcement Learning Algorithms using Python and R programming.
+- 👀 I am a motivated data scientist with more than four years of expertise in designing, training, and fine-tuning machine-learning models. 
+     I have a solid foundation in statistics, experiment design, time-series analysis, and machine learning. I have experience using predictive 
+     data modeling to solve actual business challenges and presenting findings to management. I have advanced knowledge in the areas of anomaly 
+     detection, natural language processing, and customer behavior analysis. I also have specialized knowledge in the construction of tuning and
+     validation procedures to enhance the effectiveness and performance of AI/ML systems.
+      
 - 🌱 My Work & Research Interests
       * 𝐷𝑎𝑡𝑎 𝑆𝑐𝑖𝑒𝑛𝑐𝑒
       * 𝐴𝑝𝑝𝑙𝑖𝑒𝑑 𝑆𝑡𝑎𝑡𝑖𝑠𝑡𝑖𝑐𝑠
