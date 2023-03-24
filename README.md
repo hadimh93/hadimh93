@@ -1,11 +1,12 @@
-print("🚀 Welcome to my GitHub!")
+def hadimh93_readme():
+    print("""
+🚀 Hey there, I'm @hadimh93!
 
-about_me = """
 🔥 Passionate about bridging the gap between social science and artificial intelligence, I am a Scientific Researcher at the Faculty of Social and Behavioral Science at Utrecht University. My work focuses on Explainable Natural Language Processing (ExNLP) and fostering Human-AI Collaboration, with a strong emphasis on ethical AI development and social impact.
 
 💼 Previously, I've spent over four years as a Data Scientist, where I've tackled real-world business challenges by designing, training, and fine-tuning machine learning models. My cross-industry expertise covers finance, fraud detection, anomaly detection, natural language processing, and customer behavior analysis, leveraging deep and reinforcement learning techniques. I'm highly skilled at constructing tuning and validation procedures to optimize AI/ML systems' effectiveness and performance.
 
-🌐 I love sharing my work and engaging with the AI community - check out my GitHub account for more.
+🌐 I love sharing my work and engaging with the AI community - check out my GitHub account for more: [insert GitHub link here]
 
 🎯 Key Interests:
 
@@ -17,11 +18,11 @@ Data-Driven Decision Science 🎯
 Behavioral Science & Psychology 🧠
 Pricing & Revenue Management 💸
 Quantitative Finance & Economics 📊
-
 🤝 I am always eager to connect with like-minded individuals, explore new opportunities, collaborate on projects, or exchange ideas about the ethical development and application of AI. Let's connect and make a difference together! ✨
-"""
+    """)
 
-print(about_me)
+hadimh93_readme()
+
 
    
 
