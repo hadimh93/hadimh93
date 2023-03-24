@@ -1,22 +1,28 @@
-- 👋 Hi, I’m @hadimh93
-- 👀 I am a motivated data scientist with more than four years of expertise in designing, training, and fine-tuning machine-learning models. 
-     I have a solid foundation in statistics, experiment design, time-series analysis, and machine learning. I have experience using predictive 
-     data modeling to solve actual business challenges and presenting findings to management. I have advanced knowledge in the areas of anomaly 
-     detection, natural language processing, and customer behavior analysis. I also have specialized knowledge in the construction of tuning and
-     validation procedures to enhance the effectiveness and performance of AI/ML systems.
-      
-- 🌱 My Work & Research Interests
-      * 𝐷𝑎𝑡𝑎 𝑆𝑐𝑖𝑒𝑛𝑐𝑒
-      * 𝐴𝑝𝑝𝑙𝑖𝑒𝑑 𝑆𝑡𝑎𝑡𝑖𝑠𝑡𝑖𝑐𝑠
-      * 𝑅𝑒𝑖𝑛𝑓𝑜𝑟𝑐𝑒𝑚𝑒𝑛𝑡 𝐿𝑒𝑎𝑟𝑛𝑖𝑛𝑔
-      *𝐷𝑎𝑡𝑎-𝐷𝑟𝑖𝑣𝑒𝑛 𝑂𝑝𝑡𝑖𝑚𝑖𝑧𝑎𝑡𝑖𝑜𝑛
-      *𝐸𝑥𝑝𝑙𝑎𝑖𝑛𝑎𝑏𝑙𝑒 𝐴𝐼 & 𝐹𝑎𝑖𝑟𝑛𝑒𝑠𝑠 𝑖𝑛 𝑀𝐿
-      *𝑃𝑟𝑖𝑐𝑖𝑛𝑔 & 𝑅𝑒𝑣𝑒𝑛𝑢𝑒 𝑀𝑎𝑛𝑎𝑔𝑒𝑚𝑒𝑛𝑡
-      *𝐻𝑒𝑎𝑙𝑡ℎ𝑐𝑎𝑟𝑒 𝑆𝑦𝑠𝑡𝑒𝑚 & 𝐵𝑖𝑜𝑆𝑡𝑎𝑡𝑖𝑠𝑡𝑖𝑐𝑠
-      *𝐼𝑛𝑡𝑒𝑙𝑙𝑖𝑔𝑒𝑛𝑡 𝑇𝑟𝑎𝑛𝑠𝑝𝑜𝑟𝑡𝑎𝑡𝑖𝑜𝑛 𝑆𝑦𝑠𝑡𝑒𝑚
+print("🚀 Welcome to my GitHub!")
 
-- 📫 Feel free to contact me by
-      Email: hadi[dot]mohammadi[dot]outlook[dot]com
+about_me = """
+🔥 Passionate about bridging the gap between social science and artificial intelligence, I am a Scientific Researcher at the Faculty of Social and Behavioral Science at Utrecht University. My work focuses on Explainable Natural Language Processing (ExNLP) and fostering Human-AI Collaboration, with a strong emphasis on ethical AI development and social impact.
+
+💼 Previously, I've spent over four years as a Data Scientist, where I've tackled real-world business challenges by designing, training, and fine-tuning machine learning models. My cross-industry expertise covers finance, fraud detection, anomaly detection, natural language processing, and customer behavior analysis, leveraging deep and reinforcement learning techniques. I'm highly skilled at constructing tuning and validation procedures to optimize AI/ML systems' effectiveness and performance.
+
+🌐 I love sharing my work and engaging with the AI community - check out my GitHub account for more.
+
+🎯 Key Interests:
+
+Social/Human Data Science 🧑‍🤝‍🧑
+Reinforcement Learning (RL) 🚀
+Explainable AI & Fairness in ML 🌈
+Natural Language Processing (NLP) 🗣️
+Data-Driven Decision Science 🎯
+Behavioral Science & Psychology 🧠
+Pricing & Revenue Management 💸
+Quantitative Finance & Economics 📊
+
+🤝 I am always eager to connect with like-minded individuals, explore new opportunities, collaborate on projects, or exchange ideas about the ethical development and application of AI. Let's connect and make a difference together! ✨
+"""
+
+print(about_me)
+
    
 
 
