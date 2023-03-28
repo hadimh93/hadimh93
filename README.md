@@ -6,7 +6,7 @@ def hadimh93_readme():
 
 💼 Previously, I've spent over four years as a Data Scientist, where I've tackled real-world business challenges by designing, training, and fine-tuning machine learning models. My cross-industry expertise covers finance, fraud detection, anomaly detection, natural language processing, and customer behavior analysis, leveraging deep and reinforcement learning techniques. I'm highly skilled at constructing tuning and validation procedures to optimize AI/ML systems' effectiveness and performance.
 
-🌐 I love sharing my work and engaging with the AI community - check out my GitHub account for more: [insert GitHub link here]
+🌐 I love sharing my work and engaging with the AI community - check out my GitHub account for more: [https://github.com/hadimh93]
 
 🎯 Key Interests:
 
