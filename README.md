@@ -10,14 +10,17 @@ def hadimh93_readme():
 
 🎯 Key Interests:
 
-Social/Human Data Science 🧑‍🤝‍🧑
-Reinforcement Learning (RL) 🚀
-Explainable AI & Fairness in ML 🌈
-Natural Language Processing (NLP) 🗣️
-Data-Driven Decision Science 🎯
-Behavioral Science & Psychology 🧠
-Pricing & Revenue Management 💸
-Quantitative Finance & Economics 📊
+* Human-Centric Data Science 🧑‍🤝‍🧑
+* Reinforcement Learning (RL) 🚀
+* Explainable AI & Fairness in ML 🌈
+* Natural Language Processing (NLP) 🗣️
+* Data-Driven Decision Science & Optimization 🎯
+* Behavioral Science & Psychology 🧠
+* Pricing & Revenue Management 💸
+* Quantitative Finance & Economics 📊
+* Healthcare Systems & Biostatistics 🏥
+* Intelligent Transportation Systems 🚗
+*
 🤝 I am always eager to connect with like-minded individuals, explore new opportunities, collaborate on projects, or exchange ideas about the ethical development and application of AI. Let's connect and make a difference together! ✨
     """)
 
