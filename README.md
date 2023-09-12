@@ -2,7 +2,7 @@ def hadimh93_readme():
     print("""
 🚀 Hey there, I'm @hadimh93!
 
-🔥 Passionate about bridging the gap between social science and artificial intelligence, I am a Scientific Researcher at the Faculty of Social and Behavioral Science at Utrecht University. My work focuses on Explainable Natural Language Processing (ExNLP) and fostering Human-AI Collaboration, with a strong emphasis on ethical AI development and social impact.
+🔥 Passionate about bridging the gap between social science and artificial intelligence, I am a Scientific Researcher at the Faculty of Social and Behavioral Science at Utrecht University. My work focuses on Explainable Large Language Models (LLMs) and fostering Human-AI Collaboration, with a strong emphasis on ethical AI development and social impact.
 
 💼 Previously, I've spent over four years as a Data Scientist, where I've tackled real-world business challenges by designing, training, and fine-tuning machine learning models. My cross-industry expertise covers finance, fraud detection, anomaly detection, natural language processing, and customer behavior analysis, leveraging deep and reinforcement learning techniques. I'm highly skilled at constructing tuning and validation procedures to optimize AI/ML systems' effectiveness and performance.
 
