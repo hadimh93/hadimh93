@@ -16,10 +16,6 @@ def hadimh93_readme():
 * Natural Language Processing (NLP) 🗣️
 * Data-Driven Decision Science & Optimization 🎯
 * Behavioral Science & Psychology 🧠
-* Pricing & Revenue Management 💸
-* Quantitative Finance & Economics 📊
-* Healthcare Systems & Biostatistics 🏥
-* Intelligent Transportation Systems 🚗
 
 🤝 I am always eager to connect with like-minded individuals, explore new opportunities, collaborate on projects, or exchange ideas about the ethical development and application of AI. Let's connect and make a difference together! ✨
     """)
